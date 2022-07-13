@@ -11,3 +11,6 @@ JavaScript Challenge
 
 ㄴㄴ사용하던 레포지토리에 다른 레포지토리들을 합치는 경우는 다른 방법을 찾아야합니다...
 ㄴㄴ참고 블로그:https://velog.io/@ejayjeon/Github-Repository%EB%93%A4-%EA%B9%94%EB%81%94%ED%95%98%EA%B2%8C-%ED%95%98%EB%82%98%EB%A1%9C-%ED%95%A9%EC%B9%98%EA%B8%B0
+
+그냥 /이 경로 한다음에 위와 같이 똑같이 하니까
+js _day_1이 없어지고 js_day_2가 폴더에 들어감
